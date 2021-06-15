@@ -15,7 +15,6 @@ personagem = (imagem, caption) => {
     });
 }
 
-
 gerarNumero = () => {
     return Math.floor(Math.random() * 671)
 }
